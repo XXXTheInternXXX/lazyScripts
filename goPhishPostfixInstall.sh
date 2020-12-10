@@ -27,7 +27,7 @@ apt update -y
 apt install certbot -y
 apt install unzip -y
 certbot certonly --standalone --register-unsafely-without-email
-wget https://github.com/gophish/gophish/releases/download/v0.9.0/gophish-v0.9.0-linux-64bit.zip
+wget https://github.com/gophish/gophish/releases/download/v0.11.0/gophish-v0.11.0-linux-64bit.zip
 unzip gophish-v0.*.0-linux-64bit.zip
 rm -r gophish-v0.*.0-linux-64bit.zip
 echo "[+] Ready to configure"
