@@ -7,6 +7,8 @@
 #/etc/openvpn/easy-rsa/keys/<Cert Key>.crt
 #/etc/openvpn/easy-rsa/keys/<Key Name>.key
 #scp remote_username@<Server>:<File Path> <Local Directory>
+#Pentester CCD: push "route {IP} {NetMask}"
+#Client CCD: iroute {IP} {NetMask}
 
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root" 1>&2
