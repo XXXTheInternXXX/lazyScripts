@@ -3,7 +3,7 @@
 #echo 1 > /proc/sys/net/ipv4/ip_forward
 #iptables -t nat -A POSTROUTING -d <TARGET NETWORK> -o eth0 -j MASQUERADE
 #iptables-save
-#/sbin/iptables-save > /etc/iptables/rules
+#/sbin/iptables-save > /etc/iptables/rules OR /sbin/iptables-save > /etc/network/iptables.rules
 # Make sure to set a root password 
 
 if [[ $EUID -ne 0 ]]; then
