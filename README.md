@@ -62,3 +62,5 @@ Used to assist with the installation and configuration of the Sprocket Security 
 * [Part 2](https://www.sprocketsecurity.com/blog/penetration-testing-dropbox-setup-part2)
 * [Part 3](https://www.sprocketsecurity.com/blog/penetration-testing-dropbox-setup-part3)
 
+#### RussianRoulette.sh
+Play a classic game of Russian Roulette with your file system. Thank you @tyr4n7. Original Tweet [here](https://twitter.com/tyr4n7/status/1361374989077934081)
