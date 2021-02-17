@@ -54,7 +54,7 @@ Used to automatically snapshot a virtual machine in VirtualBox this script was c
 Install GrayLog, ElasticSearch, and MangoDB on Ubuntu 18.04 using install instructions from [itzgeek](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-graylog-on-ubuntu-16-04.html). The comments at the top can be used to retain iptables rules and reroute ports to syslog UDP common port.
 
 #### badchar.sh
-Generate the full list of bad characters for BOF. Thank you to @notsoshant and the article where the script is posted [here](https://medium.com/@notsoshant/windows-exploitation-dealing-with-bad-characters-quickzip-exploit-472db5251ca6)
+Generate the full list of bad characters for BOF. Thank you to @notsoshant and the article where the script is posted [here](https://medium.com/@notsoshant/windows-exploitation-dealing-with-bad-characters-quickzip-exploit-472db5251ca6).
 
 #### Folder: sprocketDropbox
 Used to assist with the installation and configuration of the Sprocket Security Dropbox for penetration tests. The code is from them and not all my own idea, the referneces can be seen below.
@@ -63,4 +63,4 @@ Used to assist with the installation and configuration of the Sprocket Security 
 * [Part 3](https://www.sprocketsecurity.com/blog/penetration-testing-dropbox-setup-part3)
 
 #### RussianRoulette.sh
-Play a classic game of Russian Roulette with your file system. Thank you @tyr4n7. Original Tweet [here](https://twitter.com/tyr4n7/status/1361374989077934081)
+Play a classic game of Russian Roulette with your file system. Thank you @tyr4n7. Original Tweet [here](https://twitter.com/tyr4n7/status/1361374989077934081).
